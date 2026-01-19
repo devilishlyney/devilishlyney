@@ -15,14 +15,14 @@ ___
 ## <p align="center">As of today, I can use...</p>
 <p align="center">Those tools :</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,c,html,css,git,github,docker&perline=12" />
+  <img src="https://skillicons.dev/icons?i=php,python,c,html,css,git,github,docker,js,nodejs&perline=12" />
 </p>
 <p align="center">...but I'm not going to stop there!</p>
 
 ___
 ## <p align="center">My next goals...</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,symfony,nodejs,react,tailwind&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,java,symfony,react,tailwind&perline=12" />
 </p>
 <p align="center">These are my priority.</p>
 
